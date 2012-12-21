@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSoulier.LocalizableTitleWebPart", "BSoulier.LocalizableTitleWebPart\BSoulier.LocalizableTitleWebPart.csproj", "{88B0EEB4-DD55-434D-B6D1-023B5ACE149D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B0EEB4-DD55-434D-B6D1-023B5ACE149D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B0EEB4-DD55-434D-B6D1-023B5ACE149D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B0EEB4-DD55-434D-B6D1-023B5ACE149D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{88B0EEB4-DD55-434D-B6D1-023B5ACE149D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B0EEB4-DD55-434D-B6D1-023B5ACE149D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B0EEB4-DD55-434D-B6D1-023B5ACE149D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
